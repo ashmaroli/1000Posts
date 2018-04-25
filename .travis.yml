@@ -10,4 +10,6 @@ rvm:
   - 2.4.4
   - 2.3.7
 
-script: bundle exec jekyll build
+script:
+  - bundle exec jekyll build
+  - ruby script/generated_post_body.rb
