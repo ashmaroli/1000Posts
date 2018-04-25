@@ -13,6 +13,7 @@ rvm:
 gemfile:
   - Gemfile
   - Gemfiles/Gemfile.jmenji
+  - Gemfiles/Gemfile.jmenji_improved
   - Gemfiles/Gemfile.mentioji
 
 script:
