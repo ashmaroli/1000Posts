@@ -14,11 +14,8 @@ rvm:
 gemfile:
   - Gemfile
   - Gemfiles/Gemfile.jemoji
-  - Gemfiles/Gemfile.jemoji_improved
   - Gemfiles/Gemfile.jmentions
-  - Gemfiles/Gemfile.jmentions_improved
   - Gemfiles/Gemfile.jmenji
-  - Gemfiles/Gemfile.jmenji_improved
   - Gemfiles/Gemfile.mentioji
 
 script:
