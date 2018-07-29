@@ -13,10 +13,10 @@ rvm:
 
 gemfile:
   - Gemfile
-  - Gemfiles/Gemfile.jemoji
-  - Gemfiles/Gemfile.jmentions
-  - Gemfiles/Gemfile.jmenji
-  - Gemfiles/Gemfile.mentioji
+  - Gemfiles/jemoji.gemfile
+  - Gemfiles/jmentions.gemfile
+  - Gemfiles/jmenji.gemfile
+  - Gemfiles/mentioji.gemfile
 
 script:
   - bundle exec jekyll build
